@@ -1,0 +1,106 @@
+<html>
+<head><title>TABLAS EJEMPLO 7</title></head>
+<body bgcolor="#a62a2a" text="#ffffff">
+<font color="red"><h1 aling="center">TABLAS DE HTML</h1></font><br>
+<hr aling=center width=50% size=10 color="yellow"><br>
+<h2>TABLA SIN FORMATO DE 10 FILAS Y DOS COLUMNAS</h2>
+<table border="1">
+
+<tr>
+<th>DEPARTAMENTOS</th>
+<th>VOTACION</th>
+</tr>
+
+<tr>
+<td>LA PAZ</td>
+<td>2655</td>
+</tr>
+
+<tr>
+<td>BENI</td>
+<td>1900</td>
+</tr>
+
+<tr>
+<td>COCHABAMBA</td>
+<td>6789</td>
+</tr>
+
+<tr>
+<td>POTOSI</td>
+<td>6789</td>
+</tr>
+
+
+<tr>
+<td>ORURO</td>
+<td>7865</td>
+</tr>
+
+
+<tr>
+<td>CHUQUISACA</td>
+<td>1234</td>
+</tr>
+
+
+<tr>
+<td>SANTA CRUZ</td>
+<td>765</td>
+</tr>
+
+
+<tr>
+<td>TARIJA</td>
+<td>3421</td>
+</tr>
+
+
+<tr>
+<td>PANDO</td>
+<td>6543</td>
+</tr>
+</table>
+<br>
+<h3>TABLA CON FORMATO</h3>
+<table width=80% align=center border="3">
+<tr><th colspan=3><marquee>DIRECTORIO TELEFONICO</marquee></th></tr>
+<tr align=center>
+	<td width=40% bgcolor="#ff0000">nombre</td>
+	<td	width=30%	bgcolor="#00ff00"><font color="black"><b>telefono</b></font></td>
+	<td width=30% bgcolor="#0000ff">E-Mail</td>
+</tr>
+
+
+<tr>
+<td>Pedro Poma</td>
+<td>453444</td>
+<td>pedro@hotmail.com</td>
+</tr>
+
+
+<tr>
+<td>Gonzalo Gómez</td>
+<td>223454</td>
+<td>pablo_2009@yahoo.es</td>
+</tr>
+
+
+<tr>
+<td>Horlando Vargas</td>
+<td>12421542</td>
+<td>horlando_vargas@hotmail.com</td>
+</tr>
+</table>
+<center>
+<img src="Galaxy J8\PhoneComparativa.jpg" witdh=220 height=120 alt="Comparativa jpg">
+<br>
+imagen alineada al centro, tamaño 120 pixel, 90 pixel de alto.<br>
+</center>
+<center>
+
+<font color="green" size=3pt face="comic sans MS">ITI BB USB</font><br>
+<font color="green" size=3pt face="comic sans MS">2015</font><br>
+</center>
+</body>
+</html>
